@@ -1,0 +1,25 @@
+#surefire
+#Thu Mar 26 21:01:41 IST 2020
+testClassesDirectory=/udir/ragul/git/sonar/MathOperations/target/test-classes
+classPathUrl.3=/udir/ragul/maven/local/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+classPathUrl.2=/udir/ragul/maven/local/repository/junit/junit/4.12/junit-4.12.jar
+useManifestOnlyJar=true
+classPathUrl.1=/udir/ragul/git/sonar/MathOperations/target/classes
+reportsDirectory=/udir/ragul/git/sonar/MathOperations/target/surefire-reports
+classPathUrl.0=/udir/ragul/git/sonar/MathOperations/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/udir/ragul/git/sonar/MathOperations/src/test/java
+surefireClassPathUrl.1=/udir/ragul/maven/local/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/udir/ragul/maven/local/repository/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=math.operation.ArithmeticOperationsTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/udir/ragul/git/sonar/MathOperations/.surefire-6EDF9AF9A2FEBD5A37ACA904E0E51EC8C45EBA1A
+includes0=**/Test*.java
+childDelegation=false
