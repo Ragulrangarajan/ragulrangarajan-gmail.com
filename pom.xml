@@ -33,7 +33,7 @@
                 <version>${jacoco.version}</version>
                 <configuration>
                     <includes>
-                        <include>math.operation</include>
+                        <include>math/operation/*</include>
                     </includes>
                 </configuration>
                 <executions>
